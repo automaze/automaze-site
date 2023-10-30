@@ -29,7 +29,7 @@ crisp_website_id = "9aa449e1-9999-422a-938f-8567982eec6d" # replace this code wi
 
 # Valine Comment
 [valine_comment]
-enable = true
+enable = false
 appId = ""    # replace this code with yours [ex: QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI]
 appKey = ""   # replace this code with yours [ex: WBmoGyJtbqUswvfLh6L8iEBr]
 # language = "change language translation from `i18n`"
@@ -93,7 +93,7 @@ link = "#"
 [[social]]
 title = "twitter"
 icon = "fab fa-twitter" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://twitter.com/BrianTimp"
 
 [[social]]
 title = "instagram"
@@ -103,9 +103,9 @@ link = "#"
 [[social]]
 title = "github"
 icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://github.com/briantimp"
 
 [[social]]
 title = "linkedin"
 icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://www.linkedin.com/in/briantimp/"
